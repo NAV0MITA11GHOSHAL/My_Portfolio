@@ -132,6 +132,11 @@ button{
     margin-right: auto;
     margin-left: auto;
 }
+.publish-head-title{
+    color: #008000;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
 a {
   text-decoration: none;
   color: #006400;
