@@ -60,7 +60,7 @@ button{
 .skills-heading{
     margin-bottom: 30px;
 }
-.skills li , .project-link{
+.skills li{
     border: 1.5px solid green;
     border-radius: 5px;
     color: red;
@@ -72,7 +72,7 @@ button{
     cursor: pointer;
     transition: all 0.5s ease;
 }
-.skills li:hover , .project-link:hover{
+.skills li:hover{
     color: lightgreen;
     background-color: deeppink;
 }
@@ -98,6 +98,18 @@ button{
     border: 1px solid lavender;
     padding: 30px;
     border-radius: 5px;
+}
+.project-link{
+    border: 1.5px solid green;
+    border-radius: 5px;
+    color: red;
+    background-color: lavender;
+    padding: 10px;
+    width:fit-content;
+    float: left;
+    margin: 10px;
+    cursor: pointer;
+    transition: all 0.5s ease;
 }
 .project-link:hover{
     color: lavender;
