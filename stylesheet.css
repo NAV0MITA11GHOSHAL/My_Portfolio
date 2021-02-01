@@ -27,9 +27,9 @@ h2 {
    top: -250px;
 }
 button{
-    background-color: lavender;
+    background-color: #e6e6fa;
     color: white;
-    border: 1px solid green;
+    border: 1px solid #008000;
     border-radius: 5px;
     margin-top: 15px;
     padding: 10px;
@@ -44,7 +44,7 @@ button{
 }
 .education h2{
     font-weight: 800;
-    color: green;
+    color: #008000;
 }
 .big-title{
     font-weight:500;
@@ -61,10 +61,10 @@ button{
     margin-bottom: 30px;
 }
 .skills li{
-    border: 1.5px solid green;
+    border: 1.5px solid #008000;
     border-radius: 5px;
-    color: red;
-    background-color: lavender;
+    color: #ff0000;
+    background-color: #e6e6fa;
     padding: 10px;
     width:fit-content;
     float: left;
@@ -73,8 +73,8 @@ button{
     transition: all 0.5s ease;
 }
 .skills li:hover{
-    color: lightgreen;
-    background-color: deeppink;
+    color: #90ee90;
+    background-color: #ff1493;
 }
 /* ----------------skills section ended----------------- */
 
@@ -83,7 +83,7 @@ button{
     height: 500px;
 }
 .project-head-title{
-    color: green;
+    color: #008000;
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -95,15 +95,15 @@ button{
     padding-left: 40px;
 }
 .project-details{
-    border: 1px solid lavender;
+    border: 1px solid #e6e6fa;
     padding: 30px;
     border-radius: 5px;
 }
 .project-link{
-    border: 1.5px solid green;
+    border: 1.5px solid #008000;
     border-radius: 5px;
-    color: red;
-    background-color: lavender;
+    color: #ff0000;
+    background-color: #e6e6fa;
     padding: 10px;
     width:fit-content;
     float: left;
@@ -112,20 +112,20 @@ button{
     transition: all 0.5s ease;
 }
 .project-link:hover{
-    color: lavender;
+    color: #e6e6fa;
     background-color: white;
 }
 .project-link a{
   text-decoration: none;
   font-size: 23px;
-  color:darkgreen;
+  color: #006400;
 }
 
 /* ----------------Project section ended----------------- */
 
 /* ---------------Publication section css----------- */
 .publish{
-    color: darkgreen;
+    color: #006400;
     height: 500px;
     font-weight: bold;
     margin-bottom: 10px;
@@ -163,7 +163,7 @@ button:hover {
 button a{
     text-decoration: none;
     font-size: 20px;
-    color: red;
+    color: #ff0000;
     display: block;
 }
 .follow-me{ 
