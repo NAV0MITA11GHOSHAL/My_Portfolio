@@ -175,8 +175,10 @@ li {
     list-style: none; 
     margin-bottom: 5px; 
     font-size: 25px;
+    justify-content: space-between;
 }
 .follow-me li i{
     float: left;
     letter-spacing: 20px;
+    justify-content: space-between;
 }
