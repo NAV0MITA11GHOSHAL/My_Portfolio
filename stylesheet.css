@@ -201,6 +201,4 @@ li {
 .follow-me li i{
     float: left;
     letter-spacing: 20px;
-    display: flex;
-    flex-direction: row;
 }
