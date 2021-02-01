@@ -81,6 +81,7 @@ button{
 /* ---------------Project section css----------- */
 .project{
     height: 500px;
+    padding-top: 30px;
 }
 .project-head-title{
     color: #008000;
@@ -127,6 +128,7 @@ button{
 .publish{
     color: #006400;
     height: 500px;
+    padding-top: 30px;
     font-weight: bold;
     margin-bottom: 10px;
     margin-right: auto;
