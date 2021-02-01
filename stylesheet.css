@@ -180,5 +180,10 @@ li {
 .follow-me li i{
     float: left;
     letter-spacing: 20px;
+}
+.follow-flex li i{
+    display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 40px;
 }
