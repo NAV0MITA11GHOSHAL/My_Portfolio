@@ -89,7 +89,7 @@ button{
 }
 .project-flex{
     display: flex;
-    justify-content: space-round;
+    justify-content: space-between;
     flex-wrap: wrap;
     padding-left: 40px;
 }
@@ -184,7 +184,6 @@ li {
 .follow-flex li i{
     display: flex;
     justify-content: center;
-    align-item: center;
     flex-wrap: wrap;
     padding-left: 40px;
 }
