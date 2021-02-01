@@ -188,9 +188,6 @@ li {
     list-style: none; 
     margin-bottom: 5px; 
     font-size: 25px;
-    display: flex;
-    justify-content: space-between;
-    justify-content: center;
 }
 .follow-me li i{
     float: left;
