@@ -89,7 +89,7 @@ button{
 }
 .project-flex{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-round;
     flex-wrap: wrap;
     padding-left: 40px;
 }
@@ -175,7 +175,7 @@ li {
     list-style: none; 
     margin-bottom: 5px; 
     font-size: 25px;
-    justify-content: space-between;
+    /*justify-content: space-between;*/
 }
 .follow-me li i{
     float: left;
@@ -183,7 +183,8 @@ li {
 }
 .follow-flex li i{
     display: flex;
-    justify-content: flex-center;
+    justify-content: center;
+    align-item: center;
     flex-wrap: wrap;
     padding-left: 40px;
 }
