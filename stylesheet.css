@@ -183,7 +183,7 @@ li {
 }
 .follow-flex li i{
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-center;
     flex-wrap: wrap;
     padding-left: 40px;
 }
